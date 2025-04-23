@@ -7,8 +7,8 @@
 #
 # 💻  You need to fix the following
 #  - enemies should move the full width of the screen
-#  - enemies should randomly spawn the full width and almost the full height
-#  - bullets shoudl move faster
+#  - enemies should randomly spawn all over the screen
+#  - bullets should move faster
 #  - score should increase
 #  - timer less than 0 should end the game
 #
